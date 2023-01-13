@@ -1,0 +1,2 @@
+num = sum(range(10))
+print("Sum of first 10 numbers is: ", num)
